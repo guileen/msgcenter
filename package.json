@@ -1,0 +1,18 @@
+{
+  "name": "msgcenter",
+  "version": "0.0.0",
+  "description": "Message center server",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/guileen/msgcenter.git"
+  },
+  "author": "Gui Lin <guileen@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guileen/msgcenter/issues"
+  }
+}
